@@ -1,5 +1,7 @@
 # Historias de Ciencia Ficción por Matías León
 
+<img src="./El Experimento/Imagenes/Principal.jpeg" alt="Rostro de cientifico">
+
 > Un universo de futuros posibles, realidades alternativas y las preguntas que nos definen como humanidad.
 
 Este repositorio es el hogar de mi proyecto creativo de historias de ciencia ficción. Aquí nacerán las ideas en formato de texto, con el objetivo de expandirse y cobrar vida en otros medios como **podcasts, historietas o piezas de animación**.
