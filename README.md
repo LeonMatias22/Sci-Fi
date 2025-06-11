@@ -1,6 +1,6 @@
 # Historias de Ciencia Ficción por Matías León
 
- <img src="./El_Experimento/Imagenes/Principal.jpeg" alt="">
+ <img src="./El_Experimento/Imagenes/Principal.jpeg" alt="Cientifico"  width="600" height="400">
 
 > Un universo de futuros posibles, realidades alternativas y las preguntas que nos definen como humanidad.
 
